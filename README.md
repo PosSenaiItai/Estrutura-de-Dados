@@ -24,10 +24,10 @@ Para buscar o valor 3 nessa árvore, basta começar na raiz e comparar o valor 3
 
 As ABBs são usadas em uma variedade de aplicações, incluindo:
 
-# Indexação de dados
-# Geração de números aleatórios
-# Árvores de expressão aritmética
-# Árvores de decisão
+ - Indexação de dados
+ - Geração de números aleatórios
+ - Árvores de expressão aritmética
+ - Árvores de decisão
 
 # Indexação de dados
 
@@ -47,11 +47,12 @@ As ABBs também podem ser usadas para representar árvores de expressão aritmé
 
 Por exemplo, a expressão aritmética (2 + 3) * 4 pode ser representada pela seguinte árvore de expressão aritmética:
 
-      *
-    / \
-   +   4
-  / \
- 2   3
+             *
+           /   \
+         +      4
+       /  \    
+     2     3  
+     
 As árvores de expressão aritmética são usadas para avaliar expressões aritméticas.
 
 # Árvores de decisão
